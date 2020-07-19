@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.centeralised {
+    margin: 10px auto;
+    width: 1000px;
+    text-align: center;
+}
+
+.chathistory {
+ min-height: 400px;
+ width: 600px;
+ margin: 10px auto;
+ padding: 10px;
+ background: #f1f1f1; 
+ text-align: left;
+ border: 1px solid lightgray;
+ margin-top: 20px;
+}
+
+.txtarea {
+    width: 600px;
+    margin: 10px auto;
+    padding: 10px;
+}
+.chatmsg {
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+
+#msg {
+    height: 200px;
+    overflow-y: auto;
+  }
