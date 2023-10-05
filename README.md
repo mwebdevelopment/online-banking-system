@@ -1,2 +1,2 @@
-# project01
-Online banking system project for unlig masters program
+#Project
+Online banking system.
